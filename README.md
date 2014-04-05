@@ -15,11 +15,17 @@ appcompat_v2_2 and google-play-service are the libraries that Client app needs.
 
 ## Setup
 *Follow this [guide](http://developer.android.com/google/gcm/gs.html) to obtain the project id and api key.
+___
 *Insert the Project ID in MainActivity of Client App (String SENDER_ID).
+___
 *Insert API KEY in Motion.java of Server App (String apiKey).
+___
 *Open on your android device the Client app "GcmExample" to obtain RegID (can you see and copy it from Logcat).
+___
 *Add the RegID in Motion.java (c.addRegId(RegID)).Can you add other device for broadcast.
+___
 *Now you can run WebcamMain.java.
+___
 
 The code is commented for customizations and other things.
 
