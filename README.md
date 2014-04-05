@@ -29,4 +29,6 @@ ___
 
 The code is commented for customizations and other things.
 
+## LICENSE
 
+Copyright (c) 2014 Tommaso Ruscica
